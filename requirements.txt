@@ -1,0 +1,10 @@
+# Python runtime requirements for Dakin AI core components
+# Keep versions pinned for reproducibility in production.
+
+flask>=1.1.4
+requests>=2.25.1
+pyyaml>=5.4
+sqlalchemy>=1.4
+aioo ttp>=3.7
+apscheduler>=3.6
+psutil>=5.8
